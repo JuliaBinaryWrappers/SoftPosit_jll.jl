@@ -1,0 +1,113 @@
+[[SoftPosit]]
+arch = "x86_64"
+git-tree-sha1 = "1c1224342d488bf18c8c0b3dbfeff0921df0f8ff"
+os = "macos"
+
+    [[SoftPosit.download]]
+    sha256 = "ef77393d8885f229f9091b2610f0fa0003315f2b22ea57917b73cf0e3d87af4a"
+    url = "https://github.com/JuliaBinaryWrappers/SoftPosit_jll.jl/releases/download/SoftPosit-v0.4.1+0/SoftPosit.v0.4.1.x86_64-apple-darwin14.tar.gz"
+[[SoftPosit]]
+arch = "i686"
+git-tree-sha1 = "cfd23bb21b6da13f44adb4f786852ed070176d5c"
+libc = "glibc"
+os = "linux"
+
+    [[SoftPosit.download]]
+    sha256 = "9e6f09e2f1b5cbd1da3b573b5a110e395a3eca09bb01990f9d869b1167b2ccf9"
+    url = "https://github.com/JuliaBinaryWrappers/SoftPosit_jll.jl/releases/download/SoftPosit-v0.4.1+0/SoftPosit.v0.4.1.i686-linux-gnu.tar.gz"
+[[SoftPosit]]
+arch = "x86_64"
+git-tree-sha1 = "3dafd5f8216650447647140297407f88f3bfe13a"
+os = "freebsd"
+
+    [[SoftPosit.download]]
+    sha256 = "a90166cb63f972c55a0abe349ec429c013f13345acb9f0304e3b6e6cb81e7bbf"
+    url = "https://github.com/JuliaBinaryWrappers/SoftPosit_jll.jl/releases/download/SoftPosit-v0.4.1+0/SoftPosit.v0.4.1.x86_64-unknown-freebsd11.1.tar.gz"
+[[SoftPosit]]
+arch = "powerpc64le"
+git-tree-sha1 = "e41a7e8cac2e60b093442b9397a5ce2de72ba8d4"
+libc = "glibc"
+os = "linux"
+
+    [[SoftPosit.download]]
+    sha256 = "4a4599d0fb9faff02ca92751cabe8d9eb93af98b5fe11a846e24cd7fd003a486"
+    url = "https://github.com/JuliaBinaryWrappers/SoftPosit_jll.jl/releases/download/SoftPosit-v0.4.1+0/SoftPosit.v0.4.1.powerpc64le-linux-gnu.tar.gz"
+[[SoftPosit]]
+arch = "x86_64"
+git-tree-sha1 = "e75072ef5eb6d30f3446ad67f5043c877385a2d6"
+libc = "musl"
+os = "linux"
+
+    [[SoftPosit.download]]
+    sha256 = "ff6442793b709117ce5363af7f7da853d6fb6c2c43457542e560a1766f9fbd5e"
+    url = "https://github.com/JuliaBinaryWrappers/SoftPosit_jll.jl/releases/download/SoftPosit-v0.4.1+0/SoftPosit.v0.4.1.x86_64-linux-musl.tar.gz"
+[[SoftPosit]]
+arch = "x86_64"
+git-tree-sha1 = "7e85ecbd5d3915928b535c487458bfd58153f1bf"
+libc = "glibc"
+os = "linux"
+
+    [[SoftPosit.download]]
+    sha256 = "2710bdfeb91b84ecac8233158bdec9058f40d8211b7cd3c994e3f2bb50ed4365"
+    url = "https://github.com/JuliaBinaryWrappers/SoftPosit_jll.jl/releases/download/SoftPosit-v0.4.1+0/SoftPosit.v0.4.1.x86_64-linux-gnu.tar.gz"
+[[SoftPosit]]
+arch = "x86_64"
+git-tree-sha1 = "c5d9c4d71e557ddc597211f071ba4002a812d789"
+os = "windows"
+
+    [[SoftPosit.download]]
+    sha256 = "06e311c2ff01cafc6cf6fca4a50ee3317ed4bf3a57e65c32eed87c7d1263e727"
+    url = "https://github.com/JuliaBinaryWrappers/SoftPosit_jll.jl/releases/download/SoftPosit-v0.4.1+0/SoftPosit.v0.4.1.x86_64-w64-mingw32.tar.gz"
+[[SoftPosit]]
+arch = "aarch64"
+git-tree-sha1 = "c29ef29f930df9c14354ac2a583bdb1d543210ab"
+libc = "musl"
+os = "linux"
+
+    [[SoftPosit.download]]
+    sha256 = "5003621eb615e5edda212ef36a9c339e97f1b1341f52c594e169478bf0ba2935"
+    url = "https://github.com/JuliaBinaryWrappers/SoftPosit_jll.jl/releases/download/SoftPosit-v0.4.1+0/SoftPosit.v0.4.1.aarch64-linux-musl.tar.gz"
+[[SoftPosit]]
+arch = "armv7l"
+git-tree-sha1 = "3a3ed0de951b7e644c383c0b5b35f276230158e7"
+libc = "glibc"
+os = "linux"
+
+    [[SoftPosit.download]]
+    sha256 = "c4f0eb0b24ee8817b2e06902d704de75cfd36cf2b9fde1efcf1c3d7bfa674380"
+    url = "https://github.com/JuliaBinaryWrappers/SoftPosit_jll.jl/releases/download/SoftPosit-v0.4.1+0/SoftPosit.v0.4.1.arm-linux-gnueabihf.tar.gz"
+[[SoftPosit]]
+arch = "i686"
+git-tree-sha1 = "d93a9db87ee9563810f99ee2f7cda7c3a28b1b96"
+libc = "musl"
+os = "linux"
+
+    [[SoftPosit.download]]
+    sha256 = "a77ff4f1da0000ba555b5100ca06fd4e7780100a665fe1de9416770b3b6d3c75"
+    url = "https://github.com/JuliaBinaryWrappers/SoftPosit_jll.jl/releases/download/SoftPosit-v0.4.1+0/SoftPosit.v0.4.1.i686-linux-musl.tar.gz"
+[[SoftPosit]]
+arch = "armv7l"
+git-tree-sha1 = "74d589a09378228e54a724fc5e68113af550b2f4"
+libc = "musl"
+os = "linux"
+
+    [[SoftPosit.download]]
+    sha256 = "2a81ce1c89113bc9e4d94d5978b077aeea6aef123dcded81c976a9a927771a3a"
+    url = "https://github.com/JuliaBinaryWrappers/SoftPosit_jll.jl/releases/download/SoftPosit-v0.4.1+0/SoftPosit.v0.4.1.arm-linux-musleabihf.tar.gz"
+[[SoftPosit]]
+arch = "aarch64"
+git-tree-sha1 = "433e7bd0b7ea5dd72b34bba62a6b991a3e459055"
+libc = "glibc"
+os = "linux"
+
+    [[SoftPosit.download]]
+    sha256 = "263a5a321a7c442e43d21010c9e668a7c5e17928529038de324d9c1509dcc57f"
+    url = "https://github.com/JuliaBinaryWrappers/SoftPosit_jll.jl/releases/download/SoftPosit-v0.4.1+0/SoftPosit.v0.4.1.aarch64-linux-gnu.tar.gz"
+[[SoftPosit]]
+arch = "i686"
+git-tree-sha1 = "3e75aa711c97aa761d8328f6252fdf793c70caad"
+os = "windows"
+
+    [[SoftPosit.download]]
+    sha256 = "a9a974e7592097f88c1089c898bc15b5d1c16c54934db78ecf24cd550c1e994f"
+    url = "https://github.com/JuliaBinaryWrappers/SoftPosit_jll.jl/releases/download/SoftPosit-v0.4.1+0/SoftPosit.v0.4.1.i686-w64-mingw32.tar.gz"
